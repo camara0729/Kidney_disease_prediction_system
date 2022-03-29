@@ -2,16 +2,16 @@
 # Este é um de Sistema de Previsão de Doências Renais Crônicas desenvolvido como Projeto da Jornada Ciência de Dados
 
 
-## Dataset -
+## Dataset 
 
 [Chronic Kidney Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease)
 
-## Dataset Description -
+## Dataset Description 
 
 [Download Description](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease#)
 
 
-## Technologies Used - 
+## Technologies Used  
 
 - Python
 - Machine Learning
@@ -23,9 +23,10 @@
 - CSS
 
   
-## How execute the system - Running Tests -
+## How execute the system - Running Tests 
 
 type the command below in VSCode's terminal: 
 
-```  python app.py (press enter)
+```  
+python app.py (press enter)
 ```
